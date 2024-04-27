@@ -6,9 +6,5 @@ Welcome to my GitHub repository! Here you can find information about my projects
 ### [ Access CV ]( https://ashfaq099.github.io/Curriculam-Vitae/)
 
 
-<div align="center">
-  <a href="CV_of _Ashfaqur Rahman.pdf" download>
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge" alt="Download CV">
-  </a>
-</div>
+
 
